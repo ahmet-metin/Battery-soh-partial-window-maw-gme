@@ -1,0 +1,491 @@
+experiment,scenario,scenario_description,test_cell,model,exclude_outliers,n_features,RMSE,MAE,R2
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,Ridge,False,61,0.005204076322712208,0.0038994044773695852,0.9909602520561402
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,Ridge,False,61,0.005524794705251509,0.005163948351231175,0.9893473268530744
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,Ridge,False,61,0.00606579883460689,0.00523890631098294,0.9872897875454415
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,Ridge,False,61,0.015976438238146165,0.015201550371852064,0.9095804834827826
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,Ridge,False,61,0.010592297370542188,0.010215237513986612,0.958712748329043
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,ExtraTrees,False,61,0.0027324250499774967,0.001794844348954566,0.9975078996687092
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,ExtraTrees,False,61,0.002629902155401758,0.0020028335520887604,0.9975861765931696
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,ExtraTrees,False,61,0.0015790541154796975,0.0010111304573669105,0.9991386675066111
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,ExtraTrees,False,61,0.0016943822443564042,0.0012438623592449056,0.9989829904424318
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,ExtraTrees,False,61,0.0051337585517215855,0.003876853837306685,0.9903014563740303
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,RandomForest,False,61,0.003191894913798925,0.0017111917746816655,0.9965993167990416
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,RandomForest,False,61,0.0020911172333587286,0.0014457010394529203,0.998473899710954
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,RandomForest,False,61,0.0018814295312071109,0.0012221548908054602,0.9987772076408218
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,RandomForest,False,61,0.0015659164922410583,0.001090720477830954,0.9991313607545667
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,RandomForest,False,61,0.004859555019223097,0.003044276667983792,0.9913098224011487
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,HistGB,False,61,0.0047000382610925895,0.0028193105972673855,0.9926265321096022
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,HistGB,False,61,0.0035970419353571256,0.002155038288178066,0.9954843807656575
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,HistGB,False,61,0.003239061443198821,0.0019481905988443984,0.9963757747970259
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,HistGB,False,61,0.00321486764692178,0.0018237326136025646,0.9963387579045092
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,HistGB,False,61,0.006542895598728731,0.003805927789908834,0.9842465519108548
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,XGBoost,False,61,0.0049979539867089145,0.0029871841964765012,0.991662160831063
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,XGBoost,False,61,0.002144594081121725,0.0017548311749249717,0.9983948466910921
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,XGBoost,False,61,0.0013376899903190416,0.0009798479260507142,0.9993818587045262
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,XGBoost,False,61,0.0026680700728914475,0.0014185908812043176,0.9974782808657616
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,XGBoost,False,61,0.00472361398082766,0.0029990366728796505,0.9917892194708576
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,LightGBM,False,61,0.004209591914354674,0.002633385830009445,0.9940850783026384
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,LightGBM,False,61,0.004297702506575062,0.0029103290943216144,0.9935538707137342
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,LightGBM,False,61,0.0034432486676346484,0.0021276535917684114,0.9959044372954521
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,LightGBM,False,61,0.004200063262631241,0.00245696114857237,0.993750951221955
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,LightGBM,False,61,0.007907747568154698,0.005396780455906082,0.9769886954836651
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,CatBoost,False,61,0.006436973851361538,0.005241182562421966,0.9861696714747449
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,CatBoost,False,61,0.004842321071406509,0.003699735661897869,0.9918166057154849
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,CatBoost,False,61,0.004840845523907184,0.0034635968690429333,0.9919049552945981
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,CatBoost,False,61,0.007165343903867768,0.0043440897563189395,0.9818123608276241
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,CatBoost,False,61,0.0106660979408987,0.008740266112920397,0.9581354160471481
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,Ridge,False,13,0.013276496397053424,0.011710845647066115,0.9411649711822617
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,Ridge,False,13,0.012679669360700327,0.010795919543795064,0.9438897543469649
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,Ridge,False,13,0.00827179966384481,0.006455716941625322,0.9763638455852826
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,Ridge,False,13,0.01484381469172056,0.013912360333220295,0.9219463352256126
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,Ridge,False,13,0.020804514329027187,0.01975583025613806,0.8407238282327599
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,ExtraTrees,False,13,0.00537129842601215,0.003256269042214925,0.9903699715320236
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,ExtraTrees,False,13,0.0033058919836408437,0.0017969211103384176,0.9961857985136907
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,ExtraTrees,False,13,0.0024700654473060533,0.0016349076625919274,0.997892373141171
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,ExtraTrees,False,13,0.0023829869608623638,0.0015653262141856797,0.9979883816769327
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,ExtraTrees,False,13,0.004846406207661684,0.002966882108267406,0.9913567859274193
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,RandomForest,False,13,0.005086713866145598,0.0028792977053585154,0.9913633837299545
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,RandomForest,False,13,0.002304635707370942,0.0012344834019376162,0.9981463365566421
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,RandomForest,False,13,0.0023304459290166856,0.001608777272743278,0.9981239048311872
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,RandomForest,False,13,0.0025248292780008148,0.0015272338930257486,0.9977417798093184
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,RandomForest,False,13,0.00407891884111153,0.002586626391410671,0.9938775425797008
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,HistGB,False,13,0.00604892555779419,0.0035186693637721425,0.987786912003372
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,HistGB,False,13,0.005346305479811312,0.0031228598642613183,0.9900245188474216
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,HistGB,False,13,0.005867821100844467,0.0032904065134292766,0.9881059288429908
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,HistGB,False,13,0.004619592514287936,0.003043864578391924,0.9924402124881014
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,HistGB,False,13,0.006447473567310471,0.0038509365656954307,0.9847026999331144
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,XGBoost,False,13,0.005442498633172819,0.003554195268419742,0.9901129742804541
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,XGBoost,False,13,0.004995549513762534,0.003561888979036442,0.9912905075295333
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,XGBoost,False,13,0.003148537409853626,0.0020033475101224733,0.9965755209084861
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,XGBoost,False,13,0.0028931165342823742,0.0020158231401471017,0.9970349357712166
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,XGBoost,False,13,0.0047204871931329825,0.0032863033504421197,0.9918000860956102
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,LightGBM,False,13,0.006368662517814255,0.0040472834034078675,0.9864616580844897
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,LightGBM,False,13,0.005968328948290998,0.0039630579328028635,0.987568262955298
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,LightGBM,False,13,0.006177567066899336,0.003726203327533658,0.9868170762123951
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,LightGBM,False,13,0.004927222127373884,0.0027925398789239663,0.9913998399485242
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,LightGBM,False,13,0.006924695811873854,0.0043330437602552615,0.9823543749789573
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,CatBoost,False,13,0.007583540327993432,0.005889593591150477,0.9808038998157672
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,CatBoost,False,13,0.007181335825052926,0.005318491103573548,0.982001480411843
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,CatBoost,False,13,0.004178558446848093,0.00342439228143795,0.9939684384273596
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,CatBoost,False,13,0.005765589466198672,0.00400481322644188,0.988224220038542
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,CatBoost,False,13,0.009993110138008547,0.008055187766127538,0.9632517220113112
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,Ridge,False,13,0.004906480013203443,0.003718144713624223,0.9919645708766224
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,Ridge,False,13,0.004340140163623026,0.0038063305804970234,0.9934259375910341
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,Ridge,False,13,0.004251359899832346,0.003216095834902271,0.9937564363002352
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,Ridge,False,13,0.016995543423773494,0.016546430851927467,0.8976772127387096
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,Ridge,False,13,0.011699712239666317,0.010955776110295924,0.9496283699054759
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,ExtraTrees,False,13,0.004282217433937325,0.002583730958889023,0.9938792246894479
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,ExtraTrees,False,13,0.001475120315690535,0.0010528700051397094,0.9992405814508059
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,ExtraTrees,False,13,0.001970044600998829,0.0011719985272607655,0.9986593083012054
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,ExtraTrees,False,13,0.0018200204976284633,0.0012580024376702846,0.9988265764253995
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,ExtraTrees,False,13,0.004466386058364985,0.0030052908072714687,0.9926591193458183
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,RandomForest,False,13,0.004124307347587202,0.002322324830458036,0.9943223181854188
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,RandomForest,False,13,0.0014623489300974407,0.0010463879914204852,0.9992536744052863
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,RandomForest,False,13,0.0015277096646128094,0.001108503318113507,0.9991937709260807
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,RandomForest,False,13,0.0019022928151927786,0.0011625923810577588,0.9987180916216523
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,RandomForest,False,13,0.003707347855148652,0.0023439541454886082,0.9949421922282928
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,HistGB,False,13,0.006300839066364176,0.003618123650857797,0.9867484774187852
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,HistGB,False,13,0.005081882960575527,0.0028523958387836534,0.9909868701118426
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,HistGB,False,13,0.0037375408077573694,0.002073414521450116,0.9951744292258096
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,HistGB,False,13,0.004404904322302766,0.002454514491886062,0.9931265431577783
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,HistGB,False,13,0.006363258572263117,0.0035782033182190963,0.9850997077182109
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,XGBoost,False,13,0.004796935845804461,0.0029592645355311434,0.9923193703036055
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,XGBoost,False,13,0.0020553016221412593,0.0017159028180144063,0.9985257285940705
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,XGBoost,False,13,0.0013038382842283974,0.0008562111703841679,0.9994127483289962
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,XGBoost,False,13,0.0030793754409555313,0.0017856791345268435,0.9966408644091015
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,XGBoost,False,13,0.004355210626539586,0.002881259219881522,0.9930200233233356
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,LightGBM,False,13,0.005971098627115172,0.003581607272057124,0.9880991633005912
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,LightGBM,False,13,0.004994765677834944,0.00327445579629047,0.991293240473128
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,LightGBM,False,13,0.0034221325726521614,0.0017763472259574213,0.9959545162286892
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,LightGBM,False,13,0.005641409098599784,0.0033318702320821823,0.9887260153265
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,LightGBM,False,13,0.007504708479166556,0.005123908222739797,0.9792745819935953
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,CatBoost,False,13,0.0076664630860957435,0.0059943110734992896,0.9803818024067569
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,CatBoost,False,13,0.0034894182587643595,0.00281990898044866,0.995750553452409
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,CatBoost,False,13,0.004760305656400127,0.0033528049394594265,0.9921720781339254
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,CatBoost,False,13,0.0038843493566774485,0.0026180630346954764,0.9946551094386532
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,CatBoost,False,13,0.008603362086549748,0.00713657067522382,0.9727621986838342
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,Ridge,False,13,0.007361299805424017,0.006262462711396755,0.9819125219107885
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,Ridge,False,13,0.0040804405155302256,0.0031357666890339253,0.994189139968721
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,Ridge,False,13,0.004494580781637233,0.0033920356744797367,0.9930216108499389
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,Ridge,False,13,0.0048473012982140525,0.0035944817621227825,0.9916765709555678
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,Ridge,False,13,0.010297651799987092,0.009785210458799393,0.9609777730429565
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,ExtraTrees,False,13,0.004341541525565742,0.002740460496227787,0.993708460534699
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,ExtraTrees,False,13,0.0014150331000259092,0.0010869758068693487,0.9993011893581453
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,ExtraTrees,False,13,0.0019098281731889453,0.0012664328194148954,0.9987400149429823
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,ExtraTrees,False,13,0.001573226546571875,0.001175048505029645,0.9991232318137643
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,ExtraTrees,False,13,0.004839731991591489,0.0029970595591101564,0.9913805754961263
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,RandomForest,False,13,0.003792388086771457,0.002209033995353042,0.9951994106879798
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,RandomForest,False,13,0.0015245633705409576,0.0011017830041160082,0.9991888199250505
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,RandomForest,False,13,0.001956031059396301,0.0012909926151727159,0.9986783139795633
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,RandomForest,False,13,0.0016413904005481456,0.0010390689934822537,0.9990456096726367
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,RandomForest,False,13,0.004615565372727761,0.0027603700628346804,0.9921605524633914
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,HistGB,False,13,0.005649534468280181,0.00326660066314841,0.9893464504061125
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,HistGB,False,13,0.004152677955094784,0.0026105325269884096,0.9939815754957033
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,HistGB,False,13,0.0036574714087251707,0.002223193753956017,0.9953789711174093
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,HistGB,False,13,0.0039038447310427386,0.0020237584310764333,0.9946013232716496
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,HistGB,False,13,0.006619096214916672,0.004006788220789964,0.9838774759622565
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,XGBoost,False,13,0.004724037109359649,0.002915708211592266,0.9925510405917811
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,XGBoost,False,13,0.002372190182250719,0.0018356402928013029,0.998036073091403
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,XGBoost,False,13,0.001674179975558241,0.0011325698449137012,0.9990317643043862
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,XGBoost,False,13,0.0028620589545499844,0.0017032559339805588,0.997098253952285
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,XGBoost,False,13,0.005390458147864069,0.0033809804447993176,0.9893073093601515
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,LightGBM,False,13,0.00555317379407287,0.003334281013647949,0.9897067733050651
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,LightGBM,False,13,0.004426636727183264,0.0031514068940381905,0.9931612917215173
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,LightGBM,False,13,0.0038513425806494936,0.002374253167202486,0.9948760945666394
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,LightGBM,False,13,0.005192199568936759,0.0026336579654323835,0.9904499640955109
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,LightGBM,False,13,0.007159096133131842,0.004615886526242076,0.9811395507406944
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,CatBoost,False,13,0.008348408306026109,0.006866929178882824,0.9767364295831255
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,CatBoost,False,13,0.003277836371655119,0.0027057042906717247,0.9962502626194312
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,CatBoost,False,13,0.004942478273995026,0.003477470547664517,0.9915614788899734
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,CatBoost,False,13,0.004503534673982869,0.003423299159178546,0.9928152895150806
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,CatBoost,False,13,0.008465649446469261,0.006689797337570819,0.973627202096977
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,Ridge,False,13,0.0069959446013286,0.006200375067649522,0.9836633979440274
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,Ridge,False,13,0.005691538104194287,0.004992137182189016,0.9886946084622107
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,Ridge,False,13,0.004726680793487669,0.0037755222537067573,0.9922822740769972
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,Ridge,False,13,0.012850966649708428,0.004064588770857726,0.9414975783224375
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,Ridge,False,13,0.008001619313734295,0.007289321527238268,0.9764391249539339
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,ExtraTrees,False,13,0.004053457755315119,0.0023689942502058145,0.994515711293745
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,ExtraTrees,False,13,0.0018025023365894825,0.0012630924115625006,0.9988660915674354
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,ExtraTrees,False,13,0.0013926818682643005,0.001020026885072693,0.9993299909850537
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,ExtraTrees,False,13,0.001902688097201987,0.0012929735186084645,0.9987175588246389
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,ExtraTrees,False,13,0.0038531655628276018,0.002551568228051087,0.9945364995216629
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,RandomForest,False,13,0.00398151628319858,0.0022654461966524256,0.9947086559721826
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,RandomForest,False,13,0.0016811810582420014,0.0011472550129884383,0.9990135949461942
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,RandomForest,False,13,0.0015937182251926473,0.001154273199256208,0.9991225954514098
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,RandomForest,False,13,0.001896365743466624,0.001274947004802742,0.9987260673929551
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,RandomForest,False,13,0.0035774215783922433,0.002140853370338259,0.9952904881979467
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,HistGB,False,13,0.005023989046397492,0.003272924423174097,0.991575068580353
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,HistGB,False,13,0.004689216342103767,0.002458437909367984,0.9923259106397169
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,HistGB,False,13,0.0039559312684312314,0.002139816571676133,0.9945940219479127
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,HistGB,False,13,0.004997384386929623,0.002328360541220159,0.9911531683689778
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,HistGB,False,13,0.005665255619980708,0.003508982129133484,0.9881893264504135
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,XGBoost,False,13,0.004487587159078803,0.0027258365673429943,0.9932780573954976
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,XGBoost,False,13,0.0029595019040682016,0.002397332402477355,0.9969432243880252
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,XGBoost,False,13,0.0012583845596354454,0.000864318957998776,0.999452979546752
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,XGBoost,False,13,0.0024702291199831835,0.001418899026995592,0.9978383930656975
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,XGBoost,False,13,0.005382451776298657,0.003495874529136381,0.9893390491768955
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,LightGBM,False,13,0.004755722622397336,0.0030908785925573977,0.9924507807349416
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,LightGBM,False,13,0.005264139738738348,0.0031493633724555556,0.9903287829356624
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,LightGBM,False,13,0.003943358841501968,0.0021582205135699203,0.9946283290462631
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,LightGBM,False,13,0.005595386443033533,0.0028301408942127577,0.9889092115024616
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,LightGBM,False,13,0.005774761298094133,0.0037748777657939624,0.9877283285465405
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,CatBoost,False,13,0.004927151720114244,0.0032859173311632,0.9918967194028089
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,CatBoost,False,13,0.003916869687831306,0.003190236654223713,0.9946456771000167
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,CatBoost,False,13,0.003349975446825328,0.002197597274720694,0.9961233191297115
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,CatBoost,False,13,0.005231973865895324,0.002809591960349997,0.9903030895989003
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,CatBoost,False,13,0.006975639471723947,0.005498142454059701,0.982093788988963
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,Ridge,False,46,0.0025020742030922027,0.0020710870515585717,0.9979103700841963
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,Ridge,False,46,0.004516029343999225,0.003835388066236255,0.9928822976485967
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,Ridge,False,46,0.0023801706853404316,0.0018614418683712544,0.9980429901688073
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,Ridge,False,46,0.011763519516497015,0.0042691962651635615,0.9509796051052067
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,Ridge,False,46,0.008241777470370491,0.00781405349203118,0.9750036029969108
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,ExtraTrees,False,46,0.002781163556545707,0.0017630759862793408,0.9974182031510572
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,ExtraTrees,False,46,0.002666493979886624,0.0020160905835283644,0.9975185385808583
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,ExtraTrees,False,46,0.0016794409302625778,0.001077927901829266,0.9990256695622705
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,ExtraTrees,False,46,0.001782755544097666,0.0012184937878885653,0.9988741362342922
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,ExtraTrees,False,46,0.005009677095368535,0.0037874225258434035,0.9907646127056762
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,RandomForest,False,46,0.0032828888890959257,0.0017342252791465202,0.9964026609278264
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,RandomForest,False,46,0.0021506300320404135,0.0014978423488994268,0.9983857985817328
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,RandomForest,False,46,0.0018382959453369504,0.0012301595669516072,0.9988326323287983
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,RandomForest,False,46,0.00159704949759711,0.0011171487657623067,0.9990964774339767
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,RandomForest,False,46,0.00488229155484245,0.0030669205895359525,0.9912283142161964
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,HistGB,False,46,0.005346638599376187,0.0031653981350769364,0.9904581921766152
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,HistGB,False,46,0.004134655214274821,0.0026665992057333895,0.9940337024017396
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,HistGB,False,46,0.0035261860088888317,0.0020710918442119705,0.9957047619409591
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,HistGB,False,46,0.002772539163183935,0.0016620883962851142,0.9972769373729985
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,HistGB,False,46,0.007090180358521079,0.003971241024379649,0.9815009165843582
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,XGBoost,False,46,0.005189737027176852,0.0030494204728661193,0.9910099996105769
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,XGBoost,False,46,0.0019816763582168667,0.0016223399755657176,0.9986294598312052
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,XGBoost,False,46,0.0012614729456565748,0.0009412694170965999,0.9994502912056994
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,XGBoost,False,46,0.0029070072727479393,0.001464673986278525,0.99700639505619
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,XGBoost,False,46,0.00484784376042517,0.0030312751757115603,0.9913516576247055
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,LightGBM,False,46,0.005068561569490131,0.0032055451174063465,0.9914249144920422
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,LightGBM,False,46,0.004757188329488341,0.0033640906338789855,0.9921018204590855
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,LightGBM,False,46,0.003871320045054738,0.0022650132923927803,0.9948227998409278
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,LightGBM,False,46,0.004546657821946221,0.0024829046085283737,0.9926770378011512
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,LightGBM,False,46,0.008087152917433497,0.004986112986191163,0.9759327230631216
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,CatBoost,False,46,0.006163780528303808,0.0048397267734986696,0.9873187127609462
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,CatBoost,False,46,0.004966826605075616,0.003972750243809065,0.9913903735315451
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,CatBoost,False,46,0.004913537419634368,0.0036900635857587,0.9916600136668264
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,CatBoost,False,46,0.004538921437790372,0.0034759830043436983,0.9927019374314567
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,CatBoost,False,46,0.010579098369712296,0.009180049885435776,0.9588155798338988
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,Ridge,False,36,0.002913603962568934,0.0022179368649297,0.9971664554522394
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,Ridge,False,36,0.005543758392933613,0.005259597181210693,0.9892740713999061
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,Ridge,False,36,0.004879849640731059,0.0044293816390031954,0.9917739814499911
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,Ridge,False,36,0.01564549766956325,0.01520308141235044,0.9132876382172831
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,Ridge,False,36,0.010132316409796636,0.009704148966751367,0.9622207674101285
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,ExtraTrees,False,36,0.002842377847355534,0.0018090120086745227,0.9973033000562819
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,ExtraTrees,False,36,0.0025651596217479136,0.001968788565560354,0.9977035600026805
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,ExtraTrees,False,36,0.0015662548404454886,0.0010438508492731052,0.9991525742514491
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,ExtraTrees,False,36,0.0016046321768752507,0.0011782404606790551,0.999087877342154
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,ExtraTrees,False,36,0.004775345641395287,0.003479332696013532,0.9916083904602894
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,RandomForest,False,36,0.0031047527132927666,0.0016882601114961582,0.9967824667974038
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,RandomForest,False,36,0.002146507146375031,0.0014776359519251326,0.9983919816895785
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,RandomForest,False,36,0.001777996989592559,0.0011973512565052707,0.9989079592465695
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,RandomForest,False,36,0.0015437593943057955,0.0010527976910007259,0.9991557686455057
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,RandomForest,False,36,0.0046963989565812865,0.0029403244799747637,0.9918835594704214
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,HistGB,False,36,0.00492046692079536,0.0029524855794318054,0.9919186923646961
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,HistGB,False,36,0.0039326513998081646,0.0023966094279147627,0.9946024432824263
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,HistGB,False,36,0.0031472526898254586,0.0019210640841200567,0.9965783149672655
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,HistGB,False,36,0.0038958358236209334,0.0021102758397304293,0.9946234517902176
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,HistGB,False,36,0.006462386749952011,0.003775006335451454,0.9846318519445022
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,XGBoost,False,36,0.004744295468243486,0.002862801592227632,0.9924870160068863
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,XGBoost,False,36,0.0021684790357537256,0.0017810418036318053,0.9983588934908526
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,XGBoost,False,36,0.001306678543214384,0.0009703181873787569,0.9994101870243172
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,XGBoost,False,36,0.0026605655019407808,0.0014049757867802346,0.9974924467646817
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,XGBoost,False,36,0.004727847186399012,0.0030363948563311596,0.9917744962116375
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,LightGBM,False,36,0.003946615058404169,0.0022277496406460677,0.9948010152462804
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,LightGBM,False,36,0.004157383689610093,0.002864066638881092,0.9939679278424586
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,LightGBM,False,36,0.0035684444568637296,0.002380694177987777,0.9956011952440121
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,LightGBM,False,36,0.005004091932965014,0.0029805630149220266,0.9911294037955124
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,LightGBM,False,36,0.007312582832338485,0.0048691747363501054,0.9803221682858647
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,CatBoost,False,36,0.005374647975856585,0.004196069631960339,0.9903579571863945
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,CatBoost,False,36,0.0048248539016071375,0.003813101666599801,0.9918755373427909
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,CatBoost,False,36,0.0035961419571414583,0.00277154862967935,0.9955326450791032
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,CatBoost,False,36,0.006615960033187177,0.004155502609616038,0.984494420687861
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,CatBoost,False,36,0.009488077074486841,0.0078909437112036,0.966872241390529
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,Ridge,True,61,0.005204076322712208,0.0038994044773695852,0.9909602520561402
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,Ridge,True,61,0.005524794705251509,0.005163948351231175,0.9893473268530744
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,Ridge,True,61,0.00606579883460689,0.00523890631098294,0.9872897875454415
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,Ridge,True,61,0.015976438238146165,0.015201550371852064,0.9095804834827826
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,Ridge,True,61,0.010592297370542188,0.010215237513986612,0.958712748329043
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,ExtraTrees,True,61,0.002732425049977504,0.0017948443489545448,0.9975078996687092
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,ExtraTrees,True,61,0.002629902155401745,0.0020028335520887453,0.9975861765931696
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,ExtraTrees,True,61,0.0015790541154797166,0.0010111304573669374,0.9991386675066111
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,ExtraTrees,True,61,0.001694382244356401,0.0012438623592449132,0.9989829904424318
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,ExtraTrees,True,61,0.005133758551721579,0.0038768538373066632,0.9903014563740303
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,RandomForest,True,61,0.00319189491379892,0.0017111917746816636,0.9965993167990416
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,RandomForest,True,61,0.0020911172333587273,0.0014457010394529164,0.998473899710954
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,RandomForest,True,61,0.001881429531207102,0.0012221548908054622,0.9987772076408218
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,RandomForest,True,61,0.0015659164922410714,0.001090720477830973,0.9991313607545667
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,RandomForest,True,61,0.004859555019223105,0.0030442766679837936,0.9913098224011487
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,HistGB,True,61,0.0047000382610925895,0.0028193105972673855,0.9926265321096022
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,HistGB,True,61,0.0035970419353571256,0.002155038288178066,0.9954843807656575
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,HistGB,True,61,0.003239061443198821,0.0019481905988443984,0.9963757747970259
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,HistGB,True,61,0.00321486764692178,0.0018237326136025646,0.9963387579045092
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,HistGB,True,61,0.006542895598728731,0.003805927789908834,0.9842465519108548
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,XGBoost,True,61,0.0049979539867089145,0.0029871841964765012,0.991662160831063
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,XGBoost,True,61,0.002144594081121725,0.0017548311749249717,0.9983948466910921
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,XGBoost,True,61,0.0013376899903190416,0.0009798479260507142,0.9993818587045262
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,XGBoost,True,61,0.0026680700728914475,0.0014185908812043176,0.9974782808657616
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,XGBoost,True,61,0.00472361398082766,0.0029990366728796505,0.9917892194708576
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,LightGBM,True,61,0.004209591914354674,0.002633385830009445,0.9940850783026384
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,LightGBM,True,61,0.004297702506575062,0.0029103290943216144,0.9935538707137342
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,LightGBM,True,61,0.0034432486676346484,0.0021276535917684114,0.9959044372954521
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,LightGBM,True,61,0.004200063262631241,0.00245696114857237,0.993750951221955
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,LightGBM,True,61,0.007907747568154698,0.005396780455906082,0.9769886954836651
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell51,CatBoost,True,61,0.006436973851361538,0.005241182562421966,0.9861696714747449
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell52,CatBoost,True,61,0.004842321071406509,0.003699735661897869,0.9918166057154849
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell53,CatBoost,True,61,0.004840845523907184,0.0034635968690429333,0.9919049552945981
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell54,CatBoost,True,61,0.007165343903867768,0.0043440897563189395,0.9818123608276241
+StructuredWindowAblation,all_windows_available,All voltage-window features are available.,Cell55,CatBoost,True,61,0.0106660979408987,0.008740266112920397,0.9581354160471481
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,Ridge,True,13,0.013276496397053424,0.011710845647066115,0.9411649711822617
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,Ridge,True,13,0.012679669360700327,0.010795919543795064,0.9438897543469649
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,Ridge,True,13,0.00827179966384481,0.006455716941625322,0.9763638455852826
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,Ridge,True,13,0.01484381469172056,0.013912360333220295,0.9219463352256126
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,Ridge,True,13,0.020804514329027187,0.01975583025613806,0.8407238282327599
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,ExtraTrees,True,13,0.005371298426012159,0.0032562690422149,0.9903699715320234
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,ExtraTrees,True,13,0.0033058919836408593,0.0017969211103384215,0.9961857985136906
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,ExtraTrees,True,13,0.0024700654473060624,0.001634907662591939,0.9978923731411709
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,ExtraTrees,True,13,0.00238298696086238,0.001565326214185697,0.9979883816769327
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,ExtraTrees,True,13,0.004846406207661688,0.0029668821082674194,0.9913567859274193
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,RandomForest,True,13,0.0050867138661456115,0.002879297705358535,0.9913633837299544
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,RandomForest,True,13,0.002304635707370913,0.0012344834019376199,0.9981463365566421
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,RandomForest,True,13,0.0023304459290167077,0.0016087772727432935,0.9981239048311872
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,RandomForest,True,13,0.002524829278000822,0.0015272338930257677,0.9977417798093184
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,RandomForest,True,13,0.004078918841111544,0.0025866263914106967,0.9938775425797008
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,HistGB,True,13,0.00604892555779419,0.0035186693637721425,0.987786912003372
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,HistGB,True,13,0.005346305479811312,0.0031228598642613183,0.9900245188474216
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,HistGB,True,13,0.005867821100844467,0.0032904065134292766,0.9881059288429908
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,HistGB,True,13,0.004619592514287936,0.003043864578391924,0.9924402124881014
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,HistGB,True,13,0.006447473567310471,0.0038509365656954307,0.9847026999331144
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,XGBoost,True,13,0.005442498633172819,0.003554195268419742,0.9901129742804541
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,XGBoost,True,13,0.004995549513762534,0.003561888979036442,0.9912905075295333
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,XGBoost,True,13,0.003148537409853626,0.0020033475101224733,0.9965755209084861
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,XGBoost,True,13,0.0028931165342823742,0.0020158231401471017,0.9970349357712166
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,XGBoost,True,13,0.0047204871931329825,0.0032863033504421197,0.9918000860956102
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,LightGBM,True,13,0.006368662517814255,0.0040472834034078675,0.9864616580844897
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,LightGBM,True,13,0.005968328948290998,0.0039630579328028635,0.987568262955298
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,LightGBM,True,13,0.006177567066899336,0.003726203327533658,0.9868170762123951
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,LightGBM,True,13,0.004927222127373884,0.0027925398789239663,0.9913998399485242
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,LightGBM,True,13,0.006924695811873854,0.0043330437602552615,0.9823543749789573
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell51,CatBoost,True,13,0.007583540327993432,0.005889593591150477,0.9808038998157672
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell52,CatBoost,True,13,0.007181335825052926,0.005318491103573548,0.982001480411843
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell53,CatBoost,True,13,0.004178558446848093,0.00342439228143795,0.9939684384273596
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell54,CatBoost,True,13,0.005765589466198672,0.00400481322644188,0.988224220038542
+StructuredWindowAblation,only_full_window,Only full-window features are available.,Cell55,CatBoost,True,13,0.009993110138008547,0.008055187766127538,0.9632517220113112
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,Ridge,True,13,0.004906480013203443,0.003718144713624223,0.9919645708766224
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,Ridge,True,13,0.004340140163623026,0.0038063305804970234,0.9934259375910341
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,Ridge,True,13,0.004251359899832346,0.003216095834902271,0.9937564363002352
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,Ridge,True,13,0.016995543423773494,0.016546430851927467,0.8976772127387096
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,Ridge,True,13,0.011699712239666317,0.010955776110295924,0.9496283699054759
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,ExtraTrees,True,13,0.0042822174339373405,0.0025837309588890426,0.9938792246894478
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,ExtraTrees,True,13,0.0014751203156905183,0.001052870005139694,0.9992405814508059
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,ExtraTrees,True,13,0.0019700446009988277,0.0011719985272607579,0.9986593083012054
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,ExtraTrees,True,13,0.001820020497628469,0.0012580024376702807,0.9988265764253995
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,ExtraTrees,True,13,0.004466386058364988,0.0030052908072714588,0.9926591193458183
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,RandomForest,True,13,0.004124307347587191,0.002322324830458036,0.9943223181854189
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,RandomForest,True,13,0.0014623489300974206,0.0010463879914204678,0.9992536744052863
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,RandomForest,True,13,0.0015277096646127892,0.0011085033181134898,0.9991937709260807
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,RandomForest,True,13,0.001902292815192767,0.0011625923810577434,0.9987180916216523
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,RandomForest,True,13,0.0037073478551486556,0.0023439541454885852,0.9949421922282928
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,HistGB,True,13,0.006300839066364176,0.003618123650857797,0.9867484774187852
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,HistGB,True,13,0.005081882960575527,0.0028523958387836534,0.9909868701118426
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,HistGB,True,13,0.0037375408077573694,0.002073414521450116,0.9951744292258096
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,HistGB,True,13,0.004404904322302766,0.002454514491886062,0.9931265431577783
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,HistGB,True,13,0.006363258572263117,0.0035782033182190963,0.9850997077182109
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,XGBoost,True,13,0.004796935845804461,0.0029592645355311434,0.9923193703036055
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,XGBoost,True,13,0.0020553016221412593,0.0017159028180144063,0.9985257285940705
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,XGBoost,True,13,0.0013038382842283974,0.0008562111703841679,0.9994127483289962
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,XGBoost,True,13,0.0030793754409555313,0.0017856791345268435,0.9966408644091015
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,XGBoost,True,13,0.004355210626539586,0.002881259219881522,0.9930200233233356
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,LightGBM,True,13,0.005971098627115172,0.003581607272057124,0.9880991633005912
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,LightGBM,True,13,0.004994765677834944,0.00327445579629047,0.991293240473128
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,LightGBM,True,13,0.0034221325726521614,0.0017763472259574213,0.9959545162286892
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,LightGBM,True,13,0.005641409098599784,0.0033318702320821823,0.9887260153265
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,LightGBM,True,13,0.007504708479166556,0.005123908222739797,0.9792745819935953
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell51,CatBoost,True,13,0.0076664630860957435,0.0059943110734992896,0.9803818024067569
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell52,CatBoost,True,13,0.0034894182587643595,0.00281990898044866,0.995750553452409
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell53,CatBoost,True,13,0.004760305656400127,0.0033528049394594265,0.9921720781339254
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell54,CatBoost,True,13,0.0038843493566774485,0.0026180630346954764,0.9946551094386532
+StructuredWindowAblation,only_medium_window,Only medium-window features are available.,Cell55,CatBoost,True,13,0.008603362086549748,0.00713657067522382,0.9727621986838342
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,Ridge,True,13,0.007361299805424017,0.006262462711396755,0.9819125219107885
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,Ridge,True,13,0.0040804405155302256,0.0031357666890339253,0.994189139968721
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,Ridge,True,13,0.004494580781637233,0.0033920356744797367,0.9930216108499389
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,Ridge,True,13,0.0048473012982140525,0.0035944817621227825,0.9916765709555678
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,Ridge,True,13,0.010297651799987092,0.009785210458799393,0.9609777730429565
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,ExtraTrees,True,13,0.004341541525565744,0.002740460496227781,0.993708460534699
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,ExtraTrees,True,13,0.0014150331000259233,0.0010869758068693582,0.9993011893581453
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,ExtraTrees,True,13,0.001909828173188963,0.001266432819414928,0.9987400149429823
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,ExtraTrees,True,13,0.001573226546571887,0.0011750485050296565,0.9991232318137643
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,ExtraTrees,True,13,0.0048397319915915015,0.002997059559110168,0.9913805754961262
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,RandomForest,True,13,0.0037923880867714475,0.0022090339953530483,0.9951994106879798
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,RandomForest,True,13,0.0015245633705409782,0.0011017830041160253,0.9991888199250505
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,RandomForest,True,13,0.0019560310593963034,0.0012909926151727005,0.9986783139795633
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,RandomForest,True,13,0.001641390400548133,0.0010390689934822422,0.9990456096726367
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,RandomForest,True,13,0.0046155653727278124,0.0027603700628347134,0.9921605524633913
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,HistGB,True,13,0.005649534468280181,0.00326660066314841,0.9893464504061125
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,HistGB,True,13,0.004152677955094784,0.0026105325269884096,0.9939815754957033
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,HistGB,True,13,0.0036574714087251707,0.002223193753956017,0.9953789711174093
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,HistGB,True,13,0.0039038447310427386,0.0020237584310764333,0.9946013232716496
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,HistGB,True,13,0.006619096214916672,0.004006788220789964,0.9838774759622565
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,XGBoost,True,13,0.004724037109359649,0.002915708211592266,0.9925510405917811
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,XGBoost,True,13,0.002372190182250719,0.0018356402928013029,0.998036073091403
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,XGBoost,True,13,0.001674179975558241,0.0011325698449137012,0.9990317643043862
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,XGBoost,True,13,0.0028620589545499844,0.0017032559339805588,0.997098253952285
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,XGBoost,True,13,0.005390458147864069,0.0033809804447993176,0.9893073093601515
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,LightGBM,True,13,0.00555317379407287,0.003334281013647949,0.9897067733050651
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,LightGBM,True,13,0.004426636727183264,0.0031514068940381905,0.9931612917215173
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,LightGBM,True,13,0.0038513425806494936,0.002374253167202486,0.9948760945666394
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,LightGBM,True,13,0.005192199568936759,0.0026336579654323835,0.9904499640955109
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,LightGBM,True,13,0.007159096133131842,0.004615886526242076,0.9811395507406944
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell51,CatBoost,True,13,0.008348408306026109,0.006866929178882824,0.9767364295831255
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell52,CatBoost,True,13,0.003277836371655119,0.0027057042906717247,0.9962502626194312
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell53,CatBoost,True,13,0.004942478273995026,0.003477470547664517,0.9915614788899734
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell54,CatBoost,True,13,0.004503534673982869,0.003423299159178546,0.9928152895150806
+StructuredWindowAblation,only_narrow_window,Only narrow-window features are available.,Cell55,CatBoost,True,13,0.008465649446469261,0.006689797337570819,0.973627202096977
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,Ridge,True,13,0.0069959446013286,0.006200375067649522,0.9836633979440274
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,Ridge,True,13,0.005691538104194287,0.004992137182189016,0.9886946084622107
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,Ridge,True,13,0.004726680793487669,0.0037755222537067573,0.9922822740769972
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,Ridge,True,13,0.012850966649708428,0.004064588770857726,0.9414975783224375
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,Ridge,True,13,0.008001619313734295,0.007289321527238268,0.9764391249539339
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,ExtraTrees,True,13,0.004053457755315123,0.002368994250205801,0.994515711293745
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,ExtraTrees,True,13,0.001802502336589482,0.001263092411562491,0.9988660915674354
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,ExtraTrees,True,13,0.0013926818682643098,0.0010200268850726947,0.9993299909850537
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,ExtraTrees,True,13,0.001902688097202003,0.0012929735186084914,0.9987175588246389
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,ExtraTrees,True,13,0.0038531655628276,0.002551568228051087,0.9945364995216629
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,RandomForest,True,13,0.003981516283198559,0.0022654461966524044,0.9947086559721827
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,RandomForest,True,13,0.0016811810582419906,0.0011472550129884439,0.9990135949461942
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,RandomForest,True,13,0.0015937182251926504,0.001154273199256208,0.9991225954514098
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,RandomForest,True,13,0.0018963657434666146,0.001274947004802744,0.9987260673929551
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,RandomForest,True,13,0.0035774215783922203,0.0021408533703382456,0.9952904881979467
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,HistGB,True,13,0.005023989046397492,0.003272924423174097,0.991575068580353
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,HistGB,True,13,0.004689216342103767,0.002458437909367984,0.9923259106397169
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,HistGB,True,13,0.0039559312684312314,0.002139816571676133,0.9945940219479127
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,HistGB,True,13,0.004997384386929623,0.002328360541220159,0.9911531683689778
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,HistGB,True,13,0.005665255619980708,0.003508982129133484,0.9881893264504135
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,XGBoost,True,13,0.004487587159078803,0.0027258365673429943,0.9932780573954976
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,XGBoost,True,13,0.0029595019040682016,0.002397332402477355,0.9969432243880252
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,XGBoost,True,13,0.0012583845596354454,0.000864318957998776,0.999452979546752
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,XGBoost,True,13,0.0024702291199831835,0.001418899026995592,0.9978383930656975
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,XGBoost,True,13,0.005382451776298657,0.003495874529136381,0.9893390491768955
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,LightGBM,True,13,0.004755722622397336,0.0030908785925573977,0.9924507807349416
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,LightGBM,True,13,0.005264139738738348,0.0031493633724555556,0.9903287829356624
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,LightGBM,True,13,0.003943358841501968,0.0021582205135699203,0.9946283290462631
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,LightGBM,True,13,0.005595386443033533,0.0028301408942127577,0.9889092115024616
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,LightGBM,True,13,0.005774761298094133,0.0037748777657939624,0.9877283285465405
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell51,CatBoost,True,13,0.004927151720114244,0.0032859173311632,0.9918967194028089
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell52,CatBoost,True,13,0.003916869687831306,0.003190236654223713,0.9946456771000167
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell53,CatBoost,True,13,0.003349975446825328,0.002197597274720694,0.9961233191297115
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell54,CatBoost,True,13,0.005231973865895324,0.002809591960349997,0.9903030895989003
+StructuredWindowAblation,only_very_narrow_window,Only very-narrow-window features are available.,Cell55,CatBoost,True,13,0.006975639471723947,0.005498142454059701,0.982093788988963
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,Ridge,True,46,0.0025020742030922027,0.0020710870515585717,0.9979103700841963
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,Ridge,True,46,0.004516029343999225,0.003835388066236255,0.9928822976485967
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,Ridge,True,46,0.0023801706853404316,0.0018614418683712544,0.9980429901688073
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,Ridge,True,46,0.011763519516497015,0.0042691962651635615,0.9509796051052067
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,Ridge,True,46,0.008241777470370491,0.00781405349203118,0.9750036029969108
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,ExtraTrees,True,46,0.002781163556545697,0.001763075986279331,0.9974182031510572
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,ExtraTrees,True,46,0.0026664939798866374,0.002016090583528395,0.9975185385808583
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,ExtraTrees,True,46,0.0016794409302625928,0.0010779279018292794,0.9990256695622705
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,ExtraTrees,True,46,0.001782755544097664,0.0012184937878885805,0.9988741362342922
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,ExtraTrees,True,46,0.005009677095368534,0.0037874225258434035,0.9907646127056762
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,RandomForest,True,46,0.0032828888890959512,0.0017342252791465182,0.9964026609278264
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,RandomForest,True,46,0.0021506300320404213,0.0014978423488994383,0.9983857985817328
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,RandomForest,True,46,0.0018382959453369446,0.0012301595669516109,0.9988326323287983
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,RandomForest,True,46,0.0015970494975970982,0.0011171487657622896,0.9990964774339767
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,RandomForest,True,46,0.004882291554842449,0.003066920589535958,0.9912283142161964
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,HistGB,True,46,0.005346638599376187,0.0031653981350769364,0.9904581921766152
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,HistGB,True,46,0.004134655214274821,0.0026665992057333895,0.9940337024017396
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,HistGB,True,46,0.0035261860088888317,0.0020710918442119705,0.9957047619409591
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,HistGB,True,46,0.002772539163183935,0.0016620883962851142,0.9972769373729985
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,HistGB,True,46,0.007090180358521079,0.003971241024379649,0.9815009165843582
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,XGBoost,True,46,0.005189737027176852,0.0030494204728661193,0.9910099996105769
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,XGBoost,True,46,0.0019816763582168667,0.0016223399755657176,0.9986294598312052
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,XGBoost,True,46,0.0012614729456565748,0.0009412694170965999,0.9994502912056994
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,XGBoost,True,46,0.0029070072727479393,0.001464673986278525,0.99700639505619
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,XGBoost,True,46,0.00484784376042517,0.0030312751757115603,0.9913516576247055
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,LightGBM,True,46,0.005068561569490131,0.0032055451174063465,0.9914249144920422
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,LightGBM,True,46,0.004757188329488341,0.0033640906338789855,0.9921018204590855
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,LightGBM,True,46,0.003871320045054738,0.0022650132923927803,0.9948227998409278
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,LightGBM,True,46,0.004546657821946221,0.0024829046085283737,0.9926770378011512
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,LightGBM,True,46,0.008087152917433497,0.004986112986191163,0.9759327230631216
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell51,CatBoost,True,46,0.006163780528303808,0.0048397267734986696,0.9873187127609462
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell52,CatBoost,True,46,0.004966826605075616,0.003972750243809065,0.9913903735315451
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell53,CatBoost,True,46,0.004913537419634368,0.0036900635857587,0.9916600136668264
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell54,CatBoost,True,46,0.004538921437790372,0.0034759830043436983,0.9927019374314567
+StructuredWindowAblation,pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",Cell55,CatBoost,True,46,0.010579098369712296,0.009180049885435776,0.9588155798338988
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,Ridge,True,36,0.002913603962568934,0.0022179368649297,0.9971664554522394
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,Ridge,True,36,0.005543758392933613,0.005259597181210693,0.9892740713999061
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,Ridge,True,36,0.004879849640731059,0.0044293816390031954,0.9917739814499911
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,Ridge,True,36,0.01564549766956325,0.01520308141235044,0.9132876382172831
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,Ridge,True,36,0.010132316409796636,0.009704148966751367,0.9622207674101285
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,ExtraTrees,True,36,0.002842377847355526,0.001809012008674509,0.9973033000562819
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,ExtraTrees,True,36,0.002565159621747936,0.0019687885655603715,0.9977035600026805
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,ExtraTrees,True,36,0.0015662548404454934,0.001043850849273113,0.9991525742514491
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,ExtraTrees,True,36,0.0016046321768752344,0.00117824046067904,0.999087877342154
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,ExtraTrees,True,36,0.0047753456413952965,0.0034793326960135358,0.9916083904602893
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,RandomForest,True,36,0.003104752713292787,0.0016882601114961602,0.9967824667974037
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,RandomForest,True,36,0.00214650714637505,0.0014776359519251539,0.9983919816895784
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,RandomForest,True,36,0.0017779969895925602,0.0011973512565052842,0.9989079592465695
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,RandomForest,True,36,0.0015437593943057964,0.0010527976910007049,0.9991557686455057
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,RandomForest,True,36,0.004696398956581289,0.0029403244799747577,0.9918835594704214
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,HistGB,True,36,0.00492046692079536,0.0029524855794318054,0.9919186923646961
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,HistGB,True,36,0.0039326513998081646,0.0023966094279147627,0.9946024432824263
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,HistGB,True,36,0.0031472526898254586,0.0019210640841200567,0.9965783149672655
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,HistGB,True,36,0.0038958358236209334,0.0021102758397304293,0.9946234517902176
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,HistGB,True,36,0.006462386749952011,0.003775006335451454,0.9846318519445022
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,XGBoost,True,36,0.004744295468243486,0.002862801592227632,0.9924870160068863
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,XGBoost,True,36,0.0021684790357537256,0.0017810418036318053,0.9983588934908526
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,XGBoost,True,36,0.001306678543214384,0.0009703181873787569,0.9994101870243172
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,XGBoost,True,36,0.0026605655019407808,0.0014049757867802346,0.9974924467646817
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,XGBoost,True,36,0.004727847186399012,0.0030363948563311596,0.9917744962116375
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,LightGBM,True,36,0.003946615058404169,0.0022277496406460677,0.9948010152462804
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,LightGBM,True,36,0.004157383689610093,0.002864066638881092,0.9939679278424586
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,LightGBM,True,36,0.0035684444568637296,0.002380694177987777,0.9956011952440121
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,LightGBM,True,36,0.005004091932965014,0.0029805630149220266,0.9911294037955124
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,LightGBM,True,36,0.007312582832338485,0.0048691747363501054,0.9803221682858647
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell51,CatBoost,True,36,0.005374647975856585,0.004196069631960339,0.9903579571863945
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell52,CatBoost,True,36,0.0048248539016071375,0.003813101666599801,0.9918755373427909
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell53,CatBoost,True,36,0.0035961419571414583,0.00277154862967935,0.9955326450791032
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell54,CatBoost,True,36,0.006615960033187177,0.004155502609616038,0.984494420687861
+StructuredWindowAblation,ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",Cell55,CatBoost,True,36,0.009488077074486841,0.0078909437112036,0.966872241390529

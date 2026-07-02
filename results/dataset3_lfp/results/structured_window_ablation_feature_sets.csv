@@ -1,0 +1,391 @@
+scenario,description,exclude_outliers,feature,n_features
+all_windows_available,All voltage-window features are available.,False,cycle_number,61
+all_windows_available,All voltage-window features are available.,False,pmax_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,pmax_voltage_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,ic_area_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,ic_mean_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,ic_std_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,peak_width_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,q_delta_window_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,charge_time_window_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,dva_mean_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,dva_std_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,dva_abs_mean_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,pmax_norm_full_27_36,61
+all_windows_available,All voltage-window features are available.,False,pmax_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,pmax_voltage_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,ic_area_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,ic_mean_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,ic_std_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,peak_width_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,q_delta_window_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,charge_time_window_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,dva_mean_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,dva_std_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,dva_abs_mean_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,pmax_norm_medium_32_35,61
+all_windows_available,All voltage-window features are available.,False,pmax_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,pmax_voltage_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,ic_area_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,ic_mean_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,ic_std_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,peak_width_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,q_delta_window_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,charge_time_window_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,dva_mean_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,dva_std_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,dva_abs_mean_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,pmax_norm_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,False,pmax_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,pmax_voltage_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,ic_area_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,ic_mean_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,ic_std_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,peak_width_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,q_delta_window_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,charge_time_window_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,dva_mean_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,dva_std_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,dva_abs_mean_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,pmax_norm_paper_335_350,61
+all_windows_available,All voltage-window features are available.,False,pmax_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,pmax_voltage_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,ic_area_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,ic_mean_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,ic_std_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,peak_width_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,q_delta_window_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,charge_time_window_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,dva_mean_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,dva_std_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,dva_abs_mean_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,False,pmax_norm_very_narrow_335_340,61
+only_full_window,Only full-window features are available.,False,cycle_number,13
+only_full_window,Only full-window features are available.,False,pmax_full_27_36,13
+only_full_window,Only full-window features are available.,False,pmax_voltage_full_27_36,13
+only_full_window,Only full-window features are available.,False,ic_area_full_27_36,13
+only_full_window,Only full-window features are available.,False,ic_mean_full_27_36,13
+only_full_window,Only full-window features are available.,False,ic_std_full_27_36,13
+only_full_window,Only full-window features are available.,False,peak_width_full_27_36,13
+only_full_window,Only full-window features are available.,False,q_delta_window_full_27_36,13
+only_full_window,Only full-window features are available.,False,charge_time_window_full_27_36,13
+only_full_window,Only full-window features are available.,False,dva_mean_full_27_36,13
+only_full_window,Only full-window features are available.,False,dva_std_full_27_36,13
+only_full_window,Only full-window features are available.,False,dva_abs_mean_full_27_36,13
+only_full_window,Only full-window features are available.,False,pmax_norm_full_27_36,13
+only_medium_window,Only medium-window features are available.,False,cycle_number,13
+only_medium_window,Only medium-window features are available.,False,pmax_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,pmax_voltage_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,ic_area_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,ic_mean_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,ic_std_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,peak_width_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,q_delta_window_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,charge_time_window_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,dva_mean_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,dva_std_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,dva_abs_mean_medium_32_35,13
+only_medium_window,Only medium-window features are available.,False,pmax_norm_medium_32_35,13
+only_narrow_window,Only narrow-window features are available.,False,cycle_number,13
+only_narrow_window,Only narrow-window features are available.,False,pmax_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,pmax_voltage_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,ic_area_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,ic_mean_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,ic_std_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,peak_width_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,q_delta_window_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,charge_time_window_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,dva_mean_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,dva_std_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,dva_abs_mean_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,False,pmax_norm_narrow_33_345,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,cycle_number,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,pmax_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,pmax_voltage_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,ic_area_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,ic_mean_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,ic_std_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,peak_width_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,q_delta_window_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,charge_time_window_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,dva_mean_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,dva_std_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,dva_abs_mean_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,False,pmax_norm_very_narrow_335_340,13
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,cycle_number,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_area_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_mean_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_std_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,peak_width_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,q_delta_window_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,charge_time_window_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_mean_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_std_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_abs_mean_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_area_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_mean_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_std_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,peak_width_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,q_delta_window_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,charge_time_window_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_mean_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_std_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_abs_mean_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_area_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_mean_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_std_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,peak_width_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,q_delta_window_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,charge_time_window_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_mean_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_std_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_abs_mean_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_area_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_mean_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_std_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,peak_width_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,q_delta_window_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,charge_time_window_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_mean_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_std_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_abs_mean_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_area_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_mean_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,ic_std_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,peak_width_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,q_delta_window_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,charge_time_window_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_mean_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_std_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",False,dva_abs_mean_very_narrow_335_340,46
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,cycle_number,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_voltage_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,ic_area_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,ic_mean_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,q_delta_window_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,charge_time_window_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_norm_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_voltage_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,ic_area_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,ic_mean_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,q_delta_window_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,charge_time_window_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_norm_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_voltage_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,ic_area_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,ic_mean_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,q_delta_window_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,charge_time_window_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_norm_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_voltage_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,ic_area_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,ic_mean_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,q_delta_window_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,charge_time_window_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_norm_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_voltage_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,ic_area_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,ic_mean_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,q_delta_window_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,charge_time_window_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",False,pmax_norm_very_narrow_335_340,36
+all_windows_available,All voltage-window features are available.,True,cycle_number,61
+all_windows_available,All voltage-window features are available.,True,pmax_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,pmax_voltage_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,ic_area_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,ic_mean_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,ic_std_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,peak_width_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,q_delta_window_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,charge_time_window_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,dva_mean_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,dva_std_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,dva_abs_mean_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,pmax_norm_full_27_36,61
+all_windows_available,All voltage-window features are available.,True,pmax_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,pmax_voltage_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,ic_area_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,ic_mean_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,ic_std_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,peak_width_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,q_delta_window_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,charge_time_window_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,dva_mean_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,dva_std_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,dva_abs_mean_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,pmax_norm_medium_32_35,61
+all_windows_available,All voltage-window features are available.,True,pmax_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,pmax_voltage_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,ic_area_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,ic_mean_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,ic_std_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,peak_width_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,q_delta_window_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,charge_time_window_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,dva_mean_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,dva_std_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,dva_abs_mean_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,pmax_norm_narrow_33_345,61
+all_windows_available,All voltage-window features are available.,True,pmax_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,pmax_voltage_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,ic_area_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,ic_mean_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,ic_std_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,peak_width_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,q_delta_window_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,charge_time_window_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,dva_mean_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,dva_std_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,dva_abs_mean_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,pmax_norm_paper_335_350,61
+all_windows_available,All voltage-window features are available.,True,pmax_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,pmax_voltage_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,ic_area_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,ic_mean_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,ic_std_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,peak_width_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,q_delta_window_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,charge_time_window_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,dva_mean_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,dva_std_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,dva_abs_mean_very_narrow_335_340,61
+all_windows_available,All voltage-window features are available.,True,pmax_norm_very_narrow_335_340,61
+only_full_window,Only full-window features are available.,True,cycle_number,13
+only_full_window,Only full-window features are available.,True,pmax_full_27_36,13
+only_full_window,Only full-window features are available.,True,pmax_voltage_full_27_36,13
+only_full_window,Only full-window features are available.,True,ic_area_full_27_36,13
+only_full_window,Only full-window features are available.,True,ic_mean_full_27_36,13
+only_full_window,Only full-window features are available.,True,ic_std_full_27_36,13
+only_full_window,Only full-window features are available.,True,peak_width_full_27_36,13
+only_full_window,Only full-window features are available.,True,q_delta_window_full_27_36,13
+only_full_window,Only full-window features are available.,True,charge_time_window_full_27_36,13
+only_full_window,Only full-window features are available.,True,dva_mean_full_27_36,13
+only_full_window,Only full-window features are available.,True,dva_std_full_27_36,13
+only_full_window,Only full-window features are available.,True,dva_abs_mean_full_27_36,13
+only_full_window,Only full-window features are available.,True,pmax_norm_full_27_36,13
+only_medium_window,Only medium-window features are available.,True,cycle_number,13
+only_medium_window,Only medium-window features are available.,True,pmax_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,pmax_voltage_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,ic_area_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,ic_mean_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,ic_std_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,peak_width_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,q_delta_window_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,charge_time_window_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,dva_mean_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,dva_std_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,dva_abs_mean_medium_32_35,13
+only_medium_window,Only medium-window features are available.,True,pmax_norm_medium_32_35,13
+only_narrow_window,Only narrow-window features are available.,True,cycle_number,13
+only_narrow_window,Only narrow-window features are available.,True,pmax_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,pmax_voltage_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,ic_area_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,ic_mean_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,ic_std_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,peak_width_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,q_delta_window_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,charge_time_window_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,dva_mean_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,dva_std_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,dva_abs_mean_narrow_33_345,13
+only_narrow_window,Only narrow-window features are available.,True,pmax_norm_narrow_33_345,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,cycle_number,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,pmax_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,pmax_voltage_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,ic_area_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,ic_mean_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,ic_std_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,peak_width_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,q_delta_window_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,charge_time_window_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,dva_mean_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,dva_std_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,dva_abs_mean_very_narrow_335_340,13
+only_very_narrow_window,Only very-narrow-window features are available.,True,pmax_norm_very_narrow_335_340,13
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,cycle_number,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_area_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_mean_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_std_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,peak_width_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,q_delta_window_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,charge_time_window_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_mean_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_std_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_abs_mean_full_27_36,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_area_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_mean_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_std_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,peak_width_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,q_delta_window_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,charge_time_window_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_mean_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_std_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_abs_mean_medium_32_35,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_area_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_mean_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_std_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,peak_width_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,q_delta_window_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,charge_time_window_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_mean_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_std_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_abs_mean_narrow_33_345,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_area_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_mean_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_std_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,peak_width_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,q_delta_window_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,charge_time_window_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_mean_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_std_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_abs_mean_paper_335_350,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_area_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_mean_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,ic_std_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,peak_width_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,q_delta_window_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,charge_time_window_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_mean_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_std_very_narrow_335_340,46
+pmax_features_missing,"All windows are available, but pmax, pmax_voltage, and pmax_norm features are removed.",True,dva_abs_mean_very_narrow_335_340,46
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,cycle_number,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_voltage_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,ic_area_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,ic_mean_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,q_delta_window_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,charge_time_window_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_norm_full_27_36,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_voltage_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,ic_area_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,ic_mean_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,q_delta_window_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,charge_time_window_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_norm_medium_32_35,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_voltage_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,ic_area_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,ic_mean_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,q_delta_window_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,charge_time_window_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_norm_narrow_33_345,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_voltage_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,ic_area_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,ic_mean_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,q_delta_window_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,charge_time_window_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_norm_paper_335_350,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_voltage_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,ic_area_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,ic_mean_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,q_delta_window_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,charge_time_window_very_narrow_335_340,36
+ica_shape_features_missing,"All windows are available, but ICA-shape features such as ic_std, peak_width, and DVA features are removed.",True,pmax_norm_very_narrow_335_340,36
